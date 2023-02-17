@@ -1,0 +1,28 @@
+* {
+   box-sizing: border-box;
+   margin: 2px auto; 
+   text-align: center;
+   font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+   align-items: center;
+   background-color: rgb(160, 214, 214);
+}
+
+button {
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color:#333333;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius:20px;
+    cursor: pointer;
+    }
+    
+button .Devolve{
+    background-color: rgb(255, 102, 0);
+}
