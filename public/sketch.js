@@ -50,8 +50,8 @@ function render(){
                                     </div>
                                 </div>
                                 <div>
-                                    <button onclick="Devolve()" id="Devolve">Evolución</button>
-                                    <button onclick="Evolve()" id="Evolve">Desevolucion</button>
+                                    <button onclick="Devolve()" id="Devolve">Desevolucion</button>
+                                    <button onclick="Evolve()" id="Evolve">Evolución</button>
                                 </div>
                             </div>
                         `;
